@@ -29,7 +29,7 @@ source myenv/bin/activate
 ```
 Subsequently, install the dependencies on your local machine.
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 Finally, run the application.
 ```
